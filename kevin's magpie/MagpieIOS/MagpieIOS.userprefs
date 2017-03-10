@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E9DBFCC4-C005-444E-860B-D14755F06429}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MagpieIOS/badgesUITableViewController.cs" Line="35" Column="1" />
+      <File FileName="MagpieIOS/LoginViewController.cs" Line="60" Column="1" />
+      <File FileName="MagpieIOS/MapviewController_.cs" Line="24" Column="32" />
+      <File FileName="MagpieIOS/MagpieBadge.cs" Line="1" Column="1" />
+      <File FileName="MagpieIOS/MagpieUser.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/zackjohnson/Desktop/kevin's magpie/MagpieIOS/MagpieIOS/MapviewController_.cs" relfile="MagpieIOS/MapviewController_.cs" line="131" column="1" />
+      <Breakpoint file="/Users/zackjohnson/Desktop/kevin's magpie/MagpieIOS/MagpieIOS/MapviewController_.cs" relfile="MagpieIOS/MapviewController_.cs" line="152" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MagpieIOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.349410CD-B428-43FB-8A72-08E987653724" />
+  <MultiItemStartupConfigurations />
+</Properties>
